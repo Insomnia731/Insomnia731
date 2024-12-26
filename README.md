@@ -1,4 +1,4 @@
-## Hi there 👋
+## LOL Hi there 👋
 
 <!--
 **Insomnia731/Insomnia731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
